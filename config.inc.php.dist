@@ -1,0 +1,13 @@
+<?php
+
+# Database credentials
+$db_host = '';
+$db_name = '';
+$db_user = '';
+$db_pass = '';
+
+# Full path to your installation here
+$dir = '';
+$cron = 'totallynotacron.php';
+
+$dl_opts = '--add-metadata --no-mtime --id --audio-format mp3 -x';
