@@ -16,6 +16,7 @@
     <div class="wrapper">
         <div id="add"></div>
         <div id='mediaplayer'></div>
+        <div id="nowplaying"></div>
 
         <script type="text/javascript">
           jwplayer('mediaplayer').setup({
